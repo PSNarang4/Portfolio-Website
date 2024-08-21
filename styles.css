@@ -1,0 +1,45 @@
+body {
+font-family: Arial, sans-serif;
+}
+h1, h2 {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    background-image: url('header-bg.jpg');
+background-size: cover;
+background-position: center;
+color: white;
+}
+header h1 {
+ font-size: 3rem;
+}
+header p {
+ font-size: 1.5rem;
+}
+.navbar {
+margin-bottom: 2rem;
+}
+.card-title {
+font-weight: bold;
+}
+footer {
+    background-color: #222;
+}
+.text1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: 500;
+    margin-top: 500px;
+}
+.text2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: 500;
+    margin-top: 500px;
+}
+.text1 h5{
+    margin-bottom: 500px;
+}
+.text2 h5{
+    margin-bottom: 500px;
+}
